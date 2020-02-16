@@ -11,19 +11,19 @@ improves the stationarity of the targets in the Q-learning update.
 Average accumulated reward of 5 runs. The filled area corresponds to one standard deviation.
 ”w/o  ER” denotes without experience replay, ”w/o TN” denotes without target network.
 
-<img src="plots/DQN_avg_acc_reward.svg" width="200" height="200" />
+<img src="plots/DQN_avg_acc_reward.svg" width="320" height="180" />
 
 
 
 Video of the DQN controlling the cart pole. Experience replay and the separate target network are enabled.
 
-<video src="videos/DQN/DQN.mp4" width="600" height="200" />
+<img src="videos/DQN/DQN.gif" width="600" height="120" />
 
 
 Video of the DQN controlling the cart pole with a disturbance force of 10 N at 5 seconds applied to the cart. 
 Experience replay and the separate target network are enabled.
 
-<video src="videos/DQN/DQN_Disturbance10N.mp4" width="600" height="200" />
+<img src="videos/DQN/DQN_Disturbance10N.gif" width="600" height="120" />
 
 
 ### References
