@@ -17,13 +17,13 @@ Average accumulated reward of 5 runs. The filled area corresponds to one standar
 
 Video of the DQN controlling the cart pole. Experience replay and the separate target network are enabled.
 
-<video src="videos/DQN/DQN.mp4" width="600" height="200" controls preload></video>
+<video src="videos/DQN/DQN.mp4" width="600" height="200" />
 
 
 Video of the DQN controlling the cart pole with a disturbance force of 10 N at 5 seconds applied to the cart. 
 Experience replay and the separate target network are enabled.
 
-<video src="videos/DQN/DQN_Disturbance10N.mp4" width="600" height="200" controls preload></video>
+<video src="videos/DQN/DQN_Disturbance10N.mp4" width="600" height="200" />
 
 
 ### References
